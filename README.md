@@ -39,7 +39,7 @@ Esse título provoca uma sensação de urgência e mistério, despertando o inte
 ![Arte Digital Tecnologia](![Descrição da Imagem](URL_DA_IMAGEM))
 
 ### ⚡ Arte Instigante Para Ouvintes do Podcast
-![Arte Digital Podcast Techstorm](![Logo do Podcast Techstorm](https://github.com/seuusuario/seurepositorio/imagem.png)
+![Arte Digital Podcast Techstorm](![Logo do Podcast Techstorm](https://github.com/Juliocarlo/projetopodcastdio/blob/main/Techstorm%20_A%20Revolu%C3%A7%C3%A3o%20Nunca%20Dorme.png)
 
 ---
 
