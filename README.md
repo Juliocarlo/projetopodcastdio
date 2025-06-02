@@ -36,10 +36,10 @@ Esse título provoca uma sensação de urgência e mistério, despertando o inte
 
 ## 🎨 Artes Digitais
 ### 📢 Arte Promocional Representando o Impacto da Tecnologia
-![Arte Digital Tecnologia](URL_DA_IMAGEM_AQUI)
+![Arte Digital Tecnologia](![Descrição da Imagem](URL_DA_IMAGEM))
 
 ### ⚡ Arte Instigante Para Ouvintes do Podcast
-![Arte Digital Podcast Techstorm](URL_DA_IMAGEM_AQUI)
+![Arte Digital Podcast Techstorm](![Logo do Podcast Techstorm](https://github.com/seuusuario/seurepositorio/imagem.png)
 
 ---
 
