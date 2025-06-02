@@ -36,7 +36,7 @@ Esse título provoca uma sensação de urgência e mistério, despertando o inte
 
 ## 🎨 Artes Digitais
 ### 📢 Arte Promocional Representando o Impacto da Tecnologia
-![Arte Digital Tecnologia](![Descrição da Imagem](URL_DA_IMAGEM))
+![Arte Digital Tecnologia](https://github.com/Juliocarlo/projetopodcastdio/blob/main/A%20Influ%C3%AAncia%20da%20Tecnologia%20na%20Vida%20Humana.png)
 
 ### ⚡ Arte Instigante Para Ouvintes do Podcast
 ![Arte Digital Podcast Techstorm](![Logo do Podcast Techstorm](https://github.com/Juliocarlo/projetopodcastdio/blob/main/Techstorm%20_A%20Revolu%C3%A7%C3%A3o%20Nunca%20Dorme.png)
