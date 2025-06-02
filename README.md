@@ -23,8 +23,9 @@ A tecnologia tem sido um dos principais motores de transformação da sociedade,
 Diante desse cenário, é fundamental questionar: **estamos evoluindo ou nos tornando reféns do próprio avanço?**  
 A tecnologia é uma ferramenta poderosa cujo impacto depende da forma como é utilizada. Seu equilíbrio entre inovação e responsabilidade determinará se caminhamos para um **futuro promissor** ou para uma **sociedade dominada por algoritmos e máquinas**.  
 
-🌟 **A revolução tecnológica é irreversível, mas cabe a nós garantir que ela sirva à humanidade—e não o contrário!**  
+🌟 **A revolução tecnológica é irreversível, mas cabe a nós garantir que ela sirva à humanidade—e não o contrário!** 
 
+🎙️ Ouça nosso podcast aqui: [Techstorm.mp3](URL_DO_ARQUIVO)
 ---
 
 ## 🔥 Título Criativo
