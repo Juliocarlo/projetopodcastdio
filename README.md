@@ -25,7 +25,7 @@ A tecnologia é uma ferramenta poderosa cujo impacto depende da forma como é ut
 
 🌟 **A revolução tecnológica é irreversível, mas cabe a nós garantir que ela sirva à humanidade—e não o contrário!** 
 
-🎙️ Ouça nosso podcast aqui: [Techstorm.mp3](URL_DO_ARQUIVO)
+🎙️ Ouça nosso podcast aqui: [Techstorm.mp3](https://github.com/Juliocarlo/projetopodcastdio/blob/main/PROJETO%20PODCAST.mp3)
 ---
 
 ## 🔥 Título Criativo
